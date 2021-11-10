@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="100" beatspermeasure="4">
+
+    <instrument instrument="DrumInstrument">
+ 	<note measure="1" beat="1" duration=".5" note="A1"/>
+ 	<note measure="1" beat="2" duration=".5" note="A#1"/>
+ 	<note measure="1" beat="3" duration=".5" note="Ab1"/>
+ 	<note measure="2" beat="1" duration=".5" note="B1"/>
+ 	<note measure="2" beat="2" duration=".5" note="Bb1"/>
+ 	<note measure="2" beat="3" duration=".5" note="B1"/>
+	 <note measure="3" beat="1" duration=".5" note="C1"/>
+ 	<note measure="3" beat="2" duration=".5" note="C#1"/>
+ 	<note measure="3" beat="3" duration=".5" note="C1"/>
+ 	<note measure="4" beat="1" duration=".5" note="D1"/>
+ 	<note measure="4" beat="2" duration=".5" note="D#1"/>
+ 	<note measure="4" beat="3" duration=".5" note="Db1"/>
+ 	<note measure="5" beat="1" duration=".5" note="E1"/>
+ 	<note measure="5" beat="2" duration=".5" note="Eb1"/>
+ 	<note measure="5" beat="3" duration=".5" note="E1"/>
+ 	<note measure="6" beat="1" duration=".5" note="F1"/>
+ 	<note measure="6" beat="2" duration=".5" note="F#1"/>
+ 	<note measure="6" beat="3" duration=".5" note="F1"/>
+ 	<note measure="7" beat="1" duration=".5" note="G1"/>
+ 	<note measure="7" beat="2" duration=".5" note="G#1"/>
+ 	<note measure="7" beat="3" duration=".5" note="Gb1"/>
+
+	<note measure="8" beat="1" duration="1" note="G1"/>
+	<note measure="8" beat="1.5" duration="1" note="G1"/>
+	<note measure="8" beat="2" duration="1" note="G1"/>
+	<note measure="8" beat="2.5" duration="1" note="G1"/>
+
+	<note measure="9" beat="1" duration=".5" note="A1"/>
+	<note measure="9" beat="2" duration=".5" note="B1"/>
+	<note measure="9" beat="3" duration=".5" note="C1"/>
+
+	<note measure="10" beat="1" duration="1" note="G1"/>
+	<note measure="10" beat="1.5" duration="1" note="G1"/>
+	<note measure="10" beat="2" duration="1" note="G1"/>
+	<note measure="10" beat="2.5" duration="1" note="G1"/>
+
+	<note measure="11" beat="1" duration=".5" note="A1"/>
+	<note measure="11" beat="2" duration=".5" note="B1"/>
+	<note measure="11" beat="3" duration=".5" note="C1"/>
+
+	<note measure="12" beat="1" duration="1" note="G1"/>
+	<note measure="12" beat="1.5" duration="1" note="G1"/>
+	<note measure="12" beat="2" duration="1" note="G1"/>
+	<note measure="12" beat="2.5" duration="1" note="G1"/>
+
+	<note measure="13" beat="1" duration=".5" note="A1"/>
+	<note measure="13" beat="2" duration=".5" note="B1"/>
+	<note measure="13" beat="3" duration=".5" note="C1"/>
+
+	<note measure="14" beat="1" duration="1" note="G1"/>
+	<note measure="14" beat="1.5" duration="1" note="G1"/>
+	<note measure="14" beat="2" duration="1" note="G1"/>
+	<note measure="14" beat="2.5" duration="1" note="G1"/>
+
+	<note measure="2" beat="1" duration=".5" note="A1"/>
+	<note measure="2" beat="2" duration=".5" note="B1"/>
+	<note measure="2" beat="3" duration=".5" note="C1"/>
+
+
+  </instrument>
+</score>
+
