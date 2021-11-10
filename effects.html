@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>CSE 471 Project 1</title>
+    <title>Effects</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Disable tap highlight on IE -->
@@ -43,20 +43,43 @@
 
 <body>
     <div class="col-xs-4 col-xs-offset-4">
+        <h2>Effects</h2>
+<p>An effect is an audio processor.&nbsp; It accepts audio input and produces an 
+audio output that is a modification of the input.&nbsp; Common effects include 
+echos, reverb, and others.&nbsp; The effects component will accept audio from 
+the other components and apply the effects, producing the final output of the 
+system.&nbsp; </p>
+<p>The number of effects features you support will determine your grade. The 
+following are features of an effects system:</p>
+<h3>Controllable effects sends</h3>
+<p>An effects box can be considered to be a single input device that produces an 
+output.&nbsp; We call the input the "dry" signal.&nbsp; The output is then 
+"wet".&nbsp; Controllable effects sends means you can control the mixture of wet 
+and dry for every effect and every audio source.&nbsp; So, no effects would be 
+applied to one sound, while three are applied to another.&nbsp; Generally, a 
+professional mixing system will have a certain number of "effects sends". that 
+send sound to an effect.&nbsp; Then the output of all effects can be mixed. Your 
+effects may be in series or parallel.&nbsp; Series effects are considered to be 
+only a single effects send.</p>
+<h2>Effects</h2>
+<p>The effects 
+you can implement for this project are:</p>
+<ul>
+  <li><a href="http://en.wikipedia.org/wiki/Noise_gate">Noise 
+  Gating</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Dynamic_range_compression">
+  Compression/Limiting</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Chorus_effect">Chorus</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Reverberation">
+  Reverberation</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Flanging">
+  Flanging</a></li>
+  <li>
+  <a href="http://en.wikipedia.org/wiki/Ring_modulation">
+  Ring modulation with sinusoid</a></li>
+</ul>
 
-        <!-- For class names words should be separated by a hyphen -->
-        <h1 class="my-class">CSE 473 Project 1</h1>
 
-        <h4>Title Seclection: Drum and Effects</h4>
-         
-
-        <h3>Project Description</h3>
-        <p>You are to create a music synthesizer program.  This is an off-line program that will generate output as an audio file.  Your final result will include the production of a one minute musical selection that demonstrates the functionality of your system. The program will consist of one through four distinct synthesis components, some basic effects, and a sequencer. One group member is responsible for the effects component, and each of the rest group members is responsible for one distinct synthesis component. For a team with one group member, you need to implement just the effects component and one synthesis component, with 30 points from each to be treated as 100%.</p>
-        <h3>Presented By: Qingzheng Lai</h3>
-        <b><a href = "./score_files.zip" download>Click here to download score files </a></b>
-        <h3>Component Description</h3>
-        <a href = "./drum.html">Drum synthesizer</a><br>
-        <a href = "./effects.html">Effects component</a>
     </div>
     <!-- Scripts -->
     <script src="plugins/jquery/jquery.min.js"></script>
